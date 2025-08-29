@@ -4,6 +4,10 @@ A modern, responsive Wordle clone built with React. Guess the hidden 5-letter wo
 
 
 
+##  Live Demo
+
+Check out the live version of the game here: [Wordle Clone on Vercel](https://wordle-kappa-roan.vercel.app/)
+
 ##  Features
 
 - **Classic Wordle Gameplay**: Guess the 5-letter word in 6 attempts
@@ -109,10 +113,10 @@ This Wordle clone is a PWA (Progressive Web App), meaning it can be installed on
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Inspired by the original [Wordle](https://www.nytimes.com/games/wordle/index.html) by Josh Wardle
 - Built with [Create React App](https://github.com/facebook/create-react-app)
+- Deployed on [Vercel](https://vercel.com)
 
 ---
-
